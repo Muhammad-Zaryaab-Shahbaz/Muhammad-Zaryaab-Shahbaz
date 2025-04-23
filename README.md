@@ -61,7 +61,7 @@ I'm a seasoned Full Stack Web Developer with over 7 years of hands-on experience
 ## 📫 Let’s Connect
 
 <!-- 🌐 [Portfolio Website](https://yourwebsite.com) -->
-- 💼 [LinkedIn]([https://www.linkedin.com/in/muhammad-zaryaab-505690117](https://www.linkedin.com/in/muhammad-zaryaab-505690117/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zaryaab-505690117/)
 - 📬 Email: zariab64@gmail.com
 
 ---
